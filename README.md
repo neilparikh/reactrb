@@ -5,7 +5,7 @@ This is my implementation of [reactive programming](https://en.wikipedia.org/wik
 ## Quick example
 
 ```ruby
-include './reactrb'
+require './reactrb'
 
 a = ReactRB.new(1)
 b = ReactRB.new(2)
