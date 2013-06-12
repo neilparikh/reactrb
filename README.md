@@ -1,6 +1,6 @@
 # Reactive Ruby
 
-This is my implementation of [reactive programming] in Ruby.
+This is my implementation of [reactive programming](https://en.wikipedia.org/wiki/Reactive_programming) in Ruby.
 
 ## Quick example
 
@@ -18,11 +18,11 @@ puts c #=> 5
 a.value = 10
 b.value = 5
 puts c #=> 35
-
 ```
 
 ## Todo
-* Tests
+* Refactor code
 * Documentation
+* Tests
 * Convert to a gem
 * Improved API
